@@ -20,7 +20,7 @@ page_nav:
 ---
 
 
-## What is Lunacy
+## What is Icons
 
 Lunacy is a next-gen vector graphic software for UI, UX, and web design. It has everything you are used to in other similar apps and goes beyond. Created by designers for designers to focus on the workflow and minimize distractions. No more wasting time surfing the internet for graphics or switching apps to remove backgrounds, or thinking placeholder texts. Lunacy has it all and even more. Faster than Figma, smarter than Sketch!
 
