@@ -49,7 +49,7 @@ If you want to make search results more precise, you can filter them by styles, 
 <br>
 <br>
 <p align="center">
-  <img width="900" src="/public/filters2.png">
+  <img width="900" src="/public/filtersnew.png">
 
 * **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
     
