@@ -39,6 +39,10 @@ Each time you visit [icons8.com](http://icons8.com/) you are greeted by the sear
 
 Just type in a request into the search bar and click the  <img align="center" height="35" src="/public/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
 
+<br/>тутвидео
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/Search2.mp4" type="video/mp4"></video>
+
+
 At the top of the results appear those icons that contain the search word in their name or synonymical words.
 
 <p align="center">
@@ -96,7 +100,6 @@ Click on the icon you like to open the expanded menu and press the green  <img
 
 You will see a new window where you can select the format and size, and also see the embedding options.
 
-[search_1.mp4](attachments/65657/4096001.mp4)
 
 Here’s an overview of every download option we have:
 
