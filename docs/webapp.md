@@ -90,6 +90,10 @@ Take on board that there are three free icon categories: **Logos**, **Popular** 
 
 :information_source: Commercial usage of icons from the Logos and Characters categories should be discussed with the rightful owners of respective trademarks.
 
+<div class="callout callout--warning">
+    <p><strong>Note:</strong> Commercial usage of icons from the Logos and Characters categories should be discussed with the rightful owners of respective trademarks.</p>
+</div>
+
 * * *
 
 ## Downloading and exporting
@@ -215,6 +219,10 @@ Editor is a tool that lets you edit our icons without the use of any external so
         
 
 :warning: While modes can be paired with effects, only one effect can be active at a time.
+
+<div class="callout callout--warning">
+    <p><strong>Note:</strong> While modes can be paired with effects, only one effect can be active at a time.</p>
+</div>
 
 * * *
 
