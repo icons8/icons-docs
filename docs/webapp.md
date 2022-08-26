@@ -34,7 +34,7 @@ This page is dedicated to our icon library where you can find icons for your des
 Each time you visit [icons8.com](http://icons8.com/) you are greeted by the search bar, the main tool to help you find whatever asset you need. By default, it is set to icons, but you can choose any type of asset and start searching.  
 
 <p align="center">
-  <img style="width: 100%" src="/public/landing.png">
+  <img width="700" height="348" src="/public/landing.png">
 </p>
 
 Just type in a request into the search bar and click the  <img align="center" height="35" src="/public/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
