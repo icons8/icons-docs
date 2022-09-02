@@ -160,9 +160,9 @@ When you click on a particular collection and open it, you will see several opti
   <img width="900" src="/public/newgeneralcollections.png">
 </p>
 
-1.  <img align="center" height="50" src="/public/addiconbutton.png"> button allows you to upload your own SVG files to be stored in the collection.
+1.  <img align="center" height="90" src="/public/newaddicon.png">  button allows you to upload your own SVG files to be stored in the collection.
     
-2.  <img align="center" height="45" src="/public/downloadcollbutton.png"> option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
+2.  <img align="center" height="50" src="/public/newcollectiondown.png"> option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
     
     * **PNGs** of up to 1600x1600px.
         
@@ -172,13 +172,13 @@ When you click on a particular collection and open it, you will see several opti
         
     * **PDFs**
         
-3.  <img align="center" height="45" src="/public/recolorcollbutton.png"> option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
+3.  <img align="center" height="45" src="/public/colorcollectionbutton.png"> option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
     
-4.  <img align="center" height="45" src="/public/sharecollbutton.png"> button generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
+4.  <img align="center" height="45" src="/public/copylinkbutton.png"> button generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
     
-5.  <img align="center" height="45" src="/public/renamecollbutton.png"> option does what it says on the box, lets you rename a collection to something more personal than Collection 3.
-    
-6.  <img align="center" height="45" src="/public/deletecollbutton.png">, well, deletes the active collection. This action is irreversible.
+5.  <img align="center" height="45" src="/public/collectionactionbutton.png"> button includes two options:<br>
+    * **Rename** lets you change the name of a collection to something more personal than Collection 6.<br>
+    * **Delete**, well, deletes the active collection. This action is irreversible.<br>
     
 
 * * *
@@ -191,10 +191,8 @@ Editor is a tool that lets you edit our icons without the use of any external so
 * **Recoloring mode.** Lets you recolor any static icons present on our website, both single-color and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value.  
     
 * **Overlay mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come in the same style as the selected icon, so you don’t have to worry about consistency. Overlays can be recolored the same way as icons and moved to a different part of a canvas.
-<p align="center">
-<img width="900" src="/public/previewnewoverlay2.png">
-</p>
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/OVERLAYFINAL.mp4" type="video/mp4"></video>
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/overlaybg.mp4" type="video/mp4"></video>
 
  
 * **Text** tool is enough for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
