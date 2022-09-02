@@ -39,7 +39,7 @@ Each time you visit [icons8.com](http://icons8.com/) you are greeted by the sear
 
 Just type in a request into the search bar and click the  <img align="center" height="35" src="/public/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
 
-<br/>тутвидео
+
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/Search2.mp4" type="video/mp4"></video>
 
 
