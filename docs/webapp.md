@@ -53,8 +53,13 @@ If you want to make search results more precise, you can filter them by styles, 
 <br>
 <br>
 <p align="center">
-  <img width="900" src="/public/filtersnew.png">
-
+  <img width="900" src="/public/searchgeneralnew.png">
+    
+* **Search by image** will help you find icons similar to the uploaded image. You can try other icons, illustrations and even photos.
+<p align="center">
+  <img width="600" src="/public/searchbyimage.png">
+</p>
+    
 * **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
     
 * **Types.** With this one you can either look for static icons or animated ones.
@@ -81,7 +86,7 @@ If you want to make search results more precise, you can filter them by styles, 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
 <p align="center">
-  <img width="900" src="/public/categoriesnew.png">
+  <img width="900" src="/public/categoriesoverhauled.png">
 </p>
 
   
