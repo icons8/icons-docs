@@ -142,22 +142,22 @@ If you want to edit an icon, choose either the  <img align="center" height="45
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk.
 
-You can find all your collections if you click the  <img align="center" height="45" src="/public/opencollectionsbutton.png">  button in the bottom-left corner of the screen. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
+You can find all your collections if you click the  <img align="center" height="45" src="/public/collectionsslash.png">  button in the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
 ![](attachments/65657/3571713.png?width=340)
-You can create a new collection by clicking on the  <img align="center" height="75" src="/public/button3.png">
+You can create a new collection by clicking on the  <img align="center" height="50" src="/public/newcollectioncreatebutton.png">
 ![](attachments/65657/2785283.png?width=442)
 
 To add an icon to a collection, hover a cursor over the icon and click  <img align="center" height="25" src="/public/addtocollectionnew.png"> . This sends the icon to an active collection. By default, the **Favorites** collection is active.
 
-You can also add an icon to a collection simply by dragging it onto the Collection area.
+You can also add icons simply by dragging it onto the particular collection.
 
 [collections.mp4](attachments/65657/4030469.mp4)
 
 When you click on a particular collection and open it, you will see several options:
 
 <p align="center">
-  <img width="900" src="/public/generalcollections2.png">
+  <img width="900" src="/public/newgeneralcollections.png">
 </p>
 
 1.  <img align="center" height="50" src="/public/addiconbutton.png"> button allows you to upload your own SVG files to be stored in the collection.
