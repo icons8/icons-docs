@@ -24,7 +24,7 @@ page_nav:
 
 
 
-Vattafak is dedicated to our icon library where you can find icons for your design projects. We hope to answer your questions about downloading, editing and inserting icons into your products. If you can’t find an answer, we recommend searching for it in [our FAQ](https://intercom.help/icons8-7fb7577e8170/en/collections/2838442-faq).
+This page is dedicated to our icon library where you can find icons for your design projects. We hope to answer your questions about downloading, editing and inserting icons into your products. If you can’t find an answer, we recommend searching for it in [our FAQ](https://intercom.help/icons8-7fb7577e8170/en/collections/2838442-faq).
 
 
 
