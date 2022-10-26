@@ -61,11 +61,11 @@ If you want to make search results more precise, you can filter them by styles, 
   <img width="600" src="/icons-docs/public/searchbyimage.png">
 </p>
     
-* **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
++ **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
     
-* **Types.** With this one you can either look for static icons or animated ones.
++ **Types.** With this one you can either look for static icons or animated ones.
     
-* **Designers.** Provides an option to choose between icons made by our in-house team or those created by independent authors.
++ **Designers.** Provides an option to choose between icons made by our in-house team or those created by independent authors.
     
 
 **Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](https://github.com/icons8/icons-docs/blob/main/docs/webapp.md#editor) for further customization.
