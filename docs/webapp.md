@@ -37,6 +37,8 @@ Each time you visit [icons8.com](http://icons8.com/) you are greeted by the sear
   <img width="700" height="348" src="/public/landing.png">
 </p>
 
+![Landing](public/landing.png)
+
 Just type in a request into the search bar and click the  <img align="center" height="35" src="/public/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
 
 
@@ -48,6 +50,9 @@ At the top of the results appear those icons that contain the search word in the
 <p align="center">
   <img width="900" src="/public/timesearchnew.png">
 </p>
+
+![timesearchnew](public/timesearchnew.png)
+
 <br>
 If you want to make search results more precise, you can filter them by styles, types, or designers.
 <br>
