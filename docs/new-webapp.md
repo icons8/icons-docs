@@ -136,7 +136,7 @@ Here’s an overview of every download option we have:
         <bold>SVG</bold>
       </td>
       <td>
-        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+        Best solution for graphic design. You can resize them however you want without losing quality. Comes in simplified form by default, while unchecking the corresponding option in the download menu will let you edit the vector paths such icon is made of. 
       </td>
     </tr>
      <tr>
@@ -144,7 +144,7 @@ Here’s an overview of every download option we have:
         <bold>PDF</bold>
       </td>
       <td>
-        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+        While more commonly used for text documents, images do come in .pdf too. This format also supports lossless scalability and is great for printing purposes. 
       </td>
     </tr>
      <tr>
@@ -152,7 +152,7 @@ Here’s an overview of every download option we have:
         <bold>Favicon</bold>
       </td>
       <td>
-        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+        Small icons that appear in browser tabs. Each icon is individually customized for classic desktop browsers, Android Chrome, Safari Web Clips, macOS and Windows. 
       </td>
     </tr>
     <tr>
@@ -160,7 +160,7 @@ Here’s an overview of every download option we have:
         <bold>Link (CDN)</bold>
       </td>
       <td>
-        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+        Allows you to embed an icon into your HTML code and customize it. 
       </td>
     </tr>
     <tr>
@@ -168,7 +168,7 @@ Here’s an overview of every download option we have:
         <bold>Base64</bold>
       </td>
       <td>
-        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+        Generates an HTML fragment that lets you embed a picture into your HTML (no need to link an external one!) 
       </td>
     </tr>
     <tr>
@@ -176,31 +176,43 @@ Here’s an overview of every download option we have:
         <bold>SVG Embed</bold>
       </td>
       <td>
-        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+        Generates an HTML fragment that lets you embed a vector image into your HTML (no need to link an external picture!) 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>ANIMATED FORMATS</bold>
+      </td>
+      <td>
+        <img align="center" height="45" src="/icons-docs/public/icons8-walking.gif"> 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>AGIF</bold>
+      </td>
+      <td>
+        The most basic and widely supported format for animated images. 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>JSON</bold>
+      </td>
+      <td>
+        A more advanced format. Lottie is a library that renders animations on mobile or on the web and makes animated icons run smoothly. 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>After Effects project</bold>
+      </td>
+      <td>
+       Lets you use our icons for creating videos. 
       </td>
     </tr>
   </tbody>
 </table>
-
-===================================================
-
-| <img width=115/> STATIC FORMATS |<img align="center" height="45" src="/icons-docs/public/icons8-person-laying-down-64.png">|
-|:--------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **PNG**          |                                                                                                                                               |
-| **SVG**          | Best solution for graphic design. You can resize them however you want without losing quality. Comes in simplified form by default, while unchecking the corresponding option in the download menu will let you edit the vector paths such icon is made of. |
-| **PDF**          | While more commonly used for text documents, images do come in .pdf too. This format also supports lossless scalability and is great for printing purposes.                                                                                                 |
-| **Favicon**      | Small icons that appear in browser tabs. Each icon is individually customized for classic desktop browsers, Android Chrome, Safari Web Clips, macOS and Windows.                                                                                            |
-| **Link (CDN)**         | Allows you to embed an icon into your HTML code and customize it.                                                                                                                                                                                           |
-| **Base64**       | Generates an HTML fragment that lets you embed a picture into your HTML (no need to link an external one!)                                                                                                                                                  |
-| **SVG Embed**    | Generates an HTML fragment that lets you embed a vector image into your HTML (no need to link an external picture!)          
-
-If you want to have more formats such as .ico, .xaml and .eps, consider using [Pichon](https://icons8.com/app/windows) for Windows.
-
-|      ANIMATED FORMATS     |<img align="center" height="45" src="/icons-docs/public/icons8-walking.gif">|
-|:-------------------------:|-------------------------------------------------------------------------------------------------------------------------------------|
-|          **GIF**          | The most basic and widely supported format for animated images.                                                                     |
-|          **JSON**         | A more advanced format. Lottie is a library that renders animations on mobile or on the web and makes animated icons run smoothly.  |
-| **After Effects project** | Lets you use our icons for creating videos.                                                                                         |
 
 ### Additional features 
 
