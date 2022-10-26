@@ -37,7 +37,7 @@ Each time you visit [icons8.com](http://icons8.com/) you are greeted by the sear
   <img width="700" height="348" src="/icons-docs/public/landing.png">
 </p>
 
-Just type in a request into the search bar and click the  <!--<img align="center" height="35" src="/icons-docs/public/searchbutton2.png"> --> button, you will see the search results page with a variety of icons in different styles.
+Just type in a request into the search bar and click the  <img align="center" height="35" src="/icons-docs/public/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
 
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/icons-docs/public/Search2.mp4" type="video/mp4"></video>
@@ -57,7 +57,6 @@ If you want to make search results more precise, you can filter them by styles, 
   <img width="900" src="/icons-docs/public/searchgeneralnew.png">
     
 * **Search by image** will help you find icons similar to the uploaded image. You can try other icons, illustrations and even photos.
-
 <p align="center">
   <img width="600" src="/icons-docs/public/searchbyimage.png">
 </p>
