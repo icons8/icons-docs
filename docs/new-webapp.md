@@ -113,9 +113,80 @@ You will see a new window where you can select the format and size, and also see
 
 Here’s an overview of every download option we have:
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        STATIC FORMATS
+      </td>
+      <td>
+        <img align="center" height="45" src="/icons-docs/public/icons8-person-laying-down-64.png">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>PNG</bold>
+      </td>
+      <td>
+        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <bold>SVG</bold>
+      </td>
+      <td>
+        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <bold>PDF</bold>
+      </td>
+      <td>
+        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <bold>Favicon</bold>
+      </td>
+      <td>
+        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>Link (CDN)</bold>
+      </td>
+      <td>
+        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>Base64</bold>
+      </td>
+      <td>
+        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <bold>SVG Embed</bold>
+      </td>
+      <td>
+        Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+===================================================
+
 | <img width=115/> STATIC FORMATS |<img align="center" height="45" src="/icons-docs/public/icons8-person-laying-down-64.png">|
 |:--------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **PNG**          | Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan).                                                                                                                                               |
+| **PNG**          |                                                                                                                                               |
 | **SVG**          | Best solution for graphic design. You can resize them however you want without losing quality. Comes in simplified form by default, while unchecking the corresponding option in the download menu will let you edit the vector paths such icon is made of. |
 | **PDF**          | While more commonly used for text documents, images do come in .pdf too. This format also supports lossless scalability and is great for printing purposes.                                                                                                 |
 | **Favicon**      | Small icons that appear in browser tabs. Each icon is individually customized for classic desktop browsers, Android Chrome, Safari Web Clips, macOS and Windows.                                                                                            |
