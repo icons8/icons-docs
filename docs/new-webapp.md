@@ -134,7 +134,7 @@ Here’s an overview of every download option we have:
     </tr>
      <tr>
       <td>
-        <bold>SVG</bold>
+        SVG
       </td>
       <td>
         Best solution for graphic design. You can resize them however you want without losing quality. Comes in simplified form by default, while unchecking the corresponding option in the download menu will let you edit the vector paths such icon is made of. 
@@ -142,7 +142,7 @@ Here’s an overview of every download option we have:
     </tr>
      <tr>
       <td>
-        <bold>PDF</bold>
+        PDF
       </td>
       <td>
         While more commonly used for text documents, images do come in .pdf too. This format also supports lossless scalability and is great for printing purposes. 
@@ -150,7 +150,7 @@ Here’s an overview of every download option we have:
     </tr>
      <tr>
       <td>
-        <bold>Favicon</bold>
+        Favicon
       </td>
       <td>
         Small icons that appear in browser tabs. Each icon is individually customized for classic desktop browsers, Android Chrome, Safari Web Clips, macOS and Windows. 
@@ -158,7 +158,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        <bold>Link (CDN)</bold>
+        Link (CDN)
       </td>
       <td>
         Allows you to embed an icon into your HTML code and customize it. 
@@ -166,7 +166,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        <bold>Base64</bold>
+        Base64
       </td>
       <td>
         Generates an HTML fragment that lets you embed a picture into your HTML (no need to link an external one!) 
@@ -174,7 +174,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        <bold>SVG Embed</bold>
+        SVG Embed
       </td>
       <td>
         Generates an HTML fragment that lets you embed a vector image into your HTML (no need to link an external picture!) 
@@ -187,7 +187,7 @@ Here’s an overview of every download option we have:
   <thead>
     <tr>
       <td>
-        <bold>ANIMATED FORMATS</bold>
+        ANIMATED FORMATS
       </td>
       <td>
         <img align="center" height="45" src="/icons-docs/public/icons8-walking.gif"> 
@@ -197,7 +197,7 @@ Here’s an overview of every download option we have:
   <tbody>  
     <tr>
       <td>
-        <bold>AGIF</bold>
+        GIF
       </td>
       <td>
         The most basic and widely supported format for animated images. 
@@ -205,7 +205,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        <bold>JSON</bold>
+        JSON
       </td>
       <td>
         A more advanced format. Lottie is a library that renders animations on mobile or on the web and makes animated icons run smoothly. 
@@ -213,7 +213,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        <bold>After Effects project</bold>
+        After Effects project
       </td>
       <td>
        Lets you use our icons for creating videos. 
@@ -241,15 +241,18 @@ Collections let you organize your icons, sort them by projects, recolor and down
 
 You can find all your collections if you click the  <img align="center" height="45" src="/icons-docs/public/collectionsslash.png">  button in the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
-![](attachments/65657/3571713.png?width=340)
+<!-- TODO: find and attach correctly -->
+<!-- ![](attachments/65657/3571713.png?width=340) -->
 You can create a new collection by clicking on the  <img align="center" height="50" src="/icons-docs/public/newcollectioncreatebutton.png">
-![](attachments/65657/2785283.png?width=442)
+<!-- TODO: find and attach correctly -->
+<!-- ![](attachments/65657/2785283.png?width=442) -->
 
 To add an icon to a collection, hover a cursor over the icon and click  <img align="center" height="25" src="/icons-docs/public/addtocollectionnew.png"> . This sends the icon to an active collection. By default, the **Favorites** collection is active.
 
 You can also add icons simply by dragging it onto the particular collection.
 
-[collections.mp4](attachments/65657/4030469.mp4)
+<!-- TODO: find and attach correctly -->
+<!-- [collections.mp4](attachments/65657/4030469.mp4) -->
 
 When you click on a particular collection and open it, you will see several options:
 
@@ -313,7 +316,7 @@ Editor is a tool that lets you edit our icons without the use of any external so
     * Stroke. Has corner radius and outline thickness controls.
         
 
-:warning: While modes can be paired with effects, only one effect can be active at a time.
+⚠️ While modes can be paired with effects, only one effect can be active at a time.
 
 <div class="callout callout--warning">
     <p><strong>Note:</strong> While modes can be paired with effects, only one effect can be active at a time.</p>
@@ -325,10 +328,10 @@ Editor is a tool that lets you edit our icons without the use of any external so
 
 
 **Case #1. How do I download multiple icons at once?**  
-Hover over each icon and click  <img align="center" height="25" src="/icons-docs/public/addtocollectionnew.png"> . When you are ready to download them, open the [Collections](https://github.com/icons8/icons-docs/blob/main/docs/webapp.md#collections) tab and press Download button on the right, then select the format, size and color. Done!
+Hover over each icon and click  <img align="center" height="25" src="/icons-docs/public/addtocollectionnew.png"> . When you are ready to download them, open the [Collections](#collections) tab and press Download button on the right, then select the format, size and color. Done!
 
 **Case #2. Can I recolor an icon?**  
-Yes, you can! Clicking on a particular icon will open the [Editor](https://github.com/Vargavinter/icons8/icons-docs/blob/main/docs/webapp.md#editor), where you can enable the recoloring mode. It works both for single-color icons and for fancy colored ones. You also can recolor icons in bulk within the Collections tab.
+Yes, you can! Clicking on a particular icon will open the [Editor](#editor), where you can enable the recoloring mode. It works both for single-color icons and for fancy colored ones. You also can recolor icons in bulk within the Collections tab.
 
 **Case #3. I couldn’t find an icon I need**
 
@@ -336,7 +339,7 @@ If you haven’t found a suitable icon, or wish it was in a different style, you
 
 **Case #4. Is it possible to edit your icons?**
 
-Yes, for minor adjustments like color, size, backgrounds and outlines you can use our inbuilt [Editor](https://github.com/icons8/icons-docs/blob/docs/webapp.md#editor). To be able to edit vector paths of an icon, uncheck the **Simplified SVG** option for the SVG format in the download popup.
+Yes, for minor adjustments like color, size, backgrounds and outlines you can use our inbuilt [Editor](#editor). To be able to edit vector paths of an icon, uncheck the **Simplified SVG** option for the SVG format in the download popup.
 
 **Case #5. How do I find an icon in a particular style?**
 
