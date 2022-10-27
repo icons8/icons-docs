@@ -55,8 +55,9 @@ If you want to make search results more precise, you can filter them by styles, 
 <br>
 <p align="center">
   <img width="900" src="/icons-docs/public/searchgeneralnew.png">
+</p>
     
-* **Search by image** will help you find icons similar to the uploaded image. You can try other icons, illustrations and even photos.
++ **Search by image** will help you find icons similar to the uploaded image. You can try other icons, illustrations and even photos.
 <p align="center">
   <img width="600" src="/icons-docs/public/searchbyimage.png">
 </p>
