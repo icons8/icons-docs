@@ -1,6 +1,6 @@
 doks:
     baseurl: /icons-docs/
-    color_theme: green
+    color_theme: blue
     micro_nav:
     - title: About
       url: '/webapp'
