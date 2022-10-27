@@ -7,7 +7,7 @@ comments: false
 # Hero section
 title: About Icons8 web-app
 description: Everything you need to know about working with icons
-icon: 'lunacy'
+icon: 'icons8'
 
 # Micro navigation
 micro_nav: false
@@ -16,7 +16,7 @@ micro_nav: false
 page_nav:
     next:
         content: Pichon
-        url: '/sysreq'
+        url: '/pichon-docs'
 ---
 
 
