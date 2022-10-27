@@ -3,9 +3,9 @@
 		<div class="container-fluid">
 			<div class="row">
 				{% if site.doks.header.logo.text %}
-					<a href="https://icons8.com/lunacy" class="site-header__logo not-visibly">{{ site.doks.header.logo.text }}</a>
+					<a href="https://icons8.com/icons" class="site-header__logo not-visibly">{{ site.doks.header.logo.text }}</a>
 				{% elsif site.doks.header.logo.image %}
-					<a href="https://icons8.com/lunacy" class="site-header__logo">
+					<a href="https://icons8.com/icons" class="site-header__logo">
 						<img src="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}/doks-theme/assets/images/layout/logo.svg">
 					</a>
 				{% endif %}
