@@ -72,28 +72,17 @@ If you want to make search results more precise, you can filter them by styles, 
 
 **Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](https://github.com/icons8/icons-docs/blob/main/docs/webapp.md#editor) for further customization.
 
-<details>
-<summary>
-
-### Markdown *in* `summary`
-
-</summary>
-
-* Hi
-* There
-
-</details>
 
 <details>
-<summary>
+  <summary>
+    <h3> Search Tips</h3>
+  </summary>
 
-### Search Tips
-
-</summary>
-
-* You will get the best results if you use a single search word instead of multiple words. Shorten your request to make it easier to process.
-* If you are not satisfied with the search result, try to use synonyms.
-* Don’t add the word “icon” to your search request.
+  <ul>
+    <li>You will get the best results if you use a single search word instead of multiple words. Shorten your request to make it easier to process.</li>
+    <li>If you are not satisfied with the search result, try to use synonyms.</li>
+    <li>Don’t add the word “icon” to your search request.</li>
+  </ul>
 
 </details>
 
