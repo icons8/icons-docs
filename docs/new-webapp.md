@@ -74,10 +74,7 @@ If you want to make search results more precise, you can filter them by styles, 
 
 
 <details>
-  <summary>
-    <h4>Search Tips</h4>
-  </summary>
-
+  <summary>Search Tips</summary>
   <ul>
     <li>You will get the best results if you use a single search word instead of multiple words. Shorten your request to make it easier to process.</li>
     <li>If you are not satisfied with the search result, try to use synonyms.</li>
