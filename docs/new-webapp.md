@@ -75,7 +75,7 @@ If you want to make search results more precise, you can filter them by styles, 
 
 <details>
   <summary>
-    <h3> Search Tips</h3>
+    <h4>Search Tips</h4>
   </summary>
 
   <ul>
