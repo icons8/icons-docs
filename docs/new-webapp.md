@@ -58,6 +58,7 @@ If you want to make search results more precise, you can filter them by styles, 
 </p>
     
 + **Search by image** will help you find icons similar to the uploaded image. You can try other icons, illustrations and even photos.
+
 <p align="center">
   <img width="600" src="/icons-docs/public/searchbyimage.png">
 </p>
@@ -72,17 +73,18 @@ If you want to make search results more precise, you can filter them by styles, 
 **Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](https://github.com/icons8/icons-docs/blob/main/docs/webapp.md#editor) for further customization.
 
 <details>
-<summary>
-        
-#### Search Tips
-        
-</summary>
+  <summary>
 
-* You will get the best results if you use a single search word instead of multiple words. Shorten your request to make it easier to process.
-    
-* If you are not satisfied with the search result, try to use synonyms.
-    
-* Don’t add the word “icon” to your search request.
+  ### Search Tips
+
+  </summary>
+
+  * You will get the best results if you use a single search word instead of multiple words. Shorten your request to make it easier to process.
+      
+  * If you are not satisfied with the search result, try to use synonyms.
+      
+  * Don’t add the word “icon” to your search request.
+  
 </details>
 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
@@ -115,7 +117,7 @@ You will see a new window where you can select the format and size, and also see
 Here’s an overview of every download option we have:
 
 <table>
-  <tbody>
+  <thead>
     <tr>
       <td>
         STATIC FORMATS
@@ -124,9 +126,11 @@ Here’s an overview of every download option we have:
         <img align="center" height="45" src="/icons-docs/public/icons8-person-laying-down-64.png">
       </td>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>
-        <bold>PNG</bold>
+        PNG
       </td>
       <td>
         Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
@@ -180,6 +184,11 @@ Here’s an overview of every download option we have:
         Generates an HTML fragment that lets you embed a vector image into your HTML (no need to link an external picture!) 
       </td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
     <tr>
       <td>
         <bold>ANIMATED FORMATS</bold>
@@ -188,6 +197,8 @@ Here’s an overview of every download option we have:
         <img align="center" height="45" src="/icons-docs/public/icons8-walking.gif"> 
       </td>
     </tr>
+  </thead>
+  <tbody>  
     <tr>
       <td>
         <bold>AGIF</bold>
