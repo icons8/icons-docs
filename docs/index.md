@@ -93,8 +93,6 @@ You can also filter icons by topics. Use **Categories** menu located on the left
 Take on board that there are three free icon categories: **Logos**, **Popular** and **Characters**. All download options for those icons are available from the get-go but using them still requires attribution.
 
 
-:information_source: Commercial usage of icons from the Logos and Characters categories should be discussed with the rightful owners of respective trademarks.
-
 <div class="callout callout--warning">
     <p><strong>Note:</strong> Commercial usage of icons from the Logos and Characters categories should be discussed with the rightful owners of respective trademarks.</p>
 </div>
@@ -315,8 +313,6 @@ Editor is a tool that lets you edit our icons without the use of any external so
         
     * Stroke. Has corner radius and outline thickness controls.
         
-
-⚠️ While modes can be paired with effects, only one effect can be active at a time.
 
 <div class="callout callout--warning">
     <p><strong>Note:</strong> While modes can be paired with effects, only one effect can be active at a time.</p>
