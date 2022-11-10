@@ -265,3 +265,7 @@ __pycache__/
 .docs/index-copy.md
 
 .DS_Store
+
+# jekyll
+.jekyll-cache
+_site
