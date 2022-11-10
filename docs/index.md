@@ -113,10 +113,10 @@ Here’s an overview of every download option we have:
 <table>
   <thead>
     <tr>
-      <td>
-        STATIC FORMATS
+      <td style="white-space: nowrap;">
+        <b>STATIC FORMATS</b>
       </td>
-      <td>
+      <td style="text-align: center;" >
         <img align="center" height="45" src="/icons-docs/public/icons8-person-laying-down-64.png">
       </td>
     </tr>
@@ -124,7 +124,7 @@ Here’s an overview of every download option we have:
   <tbody>
     <tr>
       <td>
-        PNG
+        <b>PNG</b>
       </td>
       <td>
         Simple raster images we all know and love. Can be downloaded in sizes up to 1600px (or 100px on a free plan). 
@@ -132,7 +132,7 @@ Here’s an overview of every download option we have:
     </tr>
      <tr>
       <td>
-        SVG
+        <b>SVG</b>
       </td>
       <td>
         Best solution for graphic design. You can resize them however you want without losing quality. Comes in simplified form by default, while unchecking the corresponding option in the download menu will let you edit the vector paths such icon is made of. 
@@ -140,7 +140,7 @@ Here’s an overview of every download option we have:
     </tr>
      <tr>
       <td>
-        PDF
+        <b>PDF</b>
       </td>
       <td>
         While more commonly used for text documents, images do come in .pdf too. This format also supports lossless scalability and is great for printing purposes. 
@@ -148,7 +148,7 @@ Here’s an overview of every download option we have:
     </tr>
      <tr>
       <td>
-        Favicon
+        <b>Favicon</b>
       </td>
       <td>
         Small icons that appear in browser tabs. Each icon is individually customized for classic desktop browsers, Android Chrome, Safari Web Clips, macOS and Windows. 
@@ -156,7 +156,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        Link (CDN)
+        <b>Link (CDN)</b>
       </td>
       <td>
         Allows you to embed an icon into your HTML code and customize it. 
@@ -164,7 +164,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        Base64
+        <b>Base64</b>
       </td>
       <td>
         Generates an HTML fragment that lets you embed a picture into your HTML (no need to link an external one!) 
@@ -172,7 +172,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        SVG Embed
+       <b>SVG Embed</b>
       </td>
       <td>
         Generates an HTML fragment that lets you embed a vector image into your HTML (no need to link an external picture!) 
@@ -184,10 +184,10 @@ Here’s an overview of every download option we have:
 <table>
   <thead>
     <tr>
-      <td>
-        ANIMATED FORMATS
+      <td style="white-space: nowrap;">
+        <b>ANIMATED FORMATS</b>
       </td>
-      <td>
+      <td style="text-align: center;" >
         <img align="center" height="45" src="/icons-docs/public/icons8-walking.gif"> 
       </td>
     </tr>
@@ -195,7 +195,7 @@ Here’s an overview of every download option we have:
   <tbody>  
     <tr>
       <td>
-        GIF
+        <b>GIF</b>
       </td>
       <td>
         The most basic and widely supported format for animated images. 
@@ -203,7 +203,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        JSON
+        <b>JSON</b>
       </td>
       <td>
         A more advanced format. Lottie is a library that renders animations on mobile or on the web and makes animated icons run smoothly. 
@@ -211,7 +211,7 @@ Here’s an overview of every download option we have:
     </tr>
     <tr>
       <td>
-        After Effects project
+       <b>After Effects project</b>
       </td>
       <td>
        Lets you use our icons for creating videos. 
