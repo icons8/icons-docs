@@ -34,19 +34,19 @@ This page is dedicated to our icon library where you can find icons for your des
 Each time you visit [icons8.com](http://icons8.com/) you are greeted by the search bar, the main tool to help you find whatever asset you need. By default, it is set to icons, but you can choose any type of asset and start searching.  
 
 <p align="center">
-  <img width="700" height="348" src="/icons-docs/public/landing.png">
+  <img width="700" height="348" src="/public/landing.png">
 </p>
 
-Just type in a request into the search bar and click the  <img align="center" height="35" src="/icons-docs/public/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
+Just type in a request into the search bar and click the  <img align="center" height="35" src="/public/searchbutton2.png">  button, you will see the search results page with a variety of icons in different styles.
 
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/icons-docs/public/Search2.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/Search2.mp4" type="video/mp4"></video>
 
 
 At the top of the results appear those icons that contain the search word in their name or synonymical words.
 
 <p align="center">
-  <img width="900" src="/icons-docs/public/timesearchnew.png">
+  <img width="900" src="/public/timesearchnew.png">
 </p>
 
 <br>
@@ -54,13 +54,13 @@ If you want to make search results more precise, you can filter them by styles, 
 <br>
 <br>
 <p align="center">
-  <img width="900" src="/icons-docs/public/searchgeneralnew.png">
+  <img width="900" src="/public/searchgeneralnew.png">
 </p>
     
 + **Search by image** will help you find icons similar to the uploaded image. You can try other icons, illustrations and even photos.
 
 <p align="center">
-  <img width="600" src="/icons-docs/public/searchbyimage.png">
+  <img width="600" src="/public/searchbyimage.png">
 </p>
     
 + **Styles.** When you find an icon that visually fits your project, this filter will help you pick other icons in the same style, saving your time and eyes.
@@ -86,7 +86,7 @@ If you want to make search results more precise, you can filter them by styles, 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Clicking on a category will present a tiled preview of it in each style.
 
 <p align="center">
-  <img width="900" src="/icons-docs/public/categoriesoverhauled.png">
+  <img width="900" src="/public/categoriesoverhauled.png">
 </p>
 
   
@@ -103,7 +103,7 @@ Take on board that there are three free icon categories: **Logos**, **Popular** 
 
 
   
-Click on the icon you like to open the expanded menu and press the green  <img align="center" height="55" src="/icons-docs/public/downloadbutton.png">  button.
+Click on the icon you like to open the expanded menu and press the green  <img align="center" height="55" src="/public/downloadbutton.png">  button.
 
 You will see a new window where you can select the format and size, and also see the embedding options.
 
@@ -117,7 +117,7 @@ Here’s an overview of every download option we have:
         <b>STATIC FORMATS</b>
       </td>
       <td style="text-align: center;" >
-        <img align="center" height="45" src="/icons-docs/public/icons8-person-laying-down-64.png">
+        <img align="center" height="45" src="/public/icons8-person-laying-down-64.png">
       </td>
     </tr>
   </thead>
@@ -188,7 +188,7 @@ Here’s an overview of every download option we have:
         <b>ANIMATED FORMATS</b>
       </td>
       <td style="text-align: center;" >
-        <img align="center" height="45" src="/icons-docs/public/icons8-walking.gif"> 
+        <img align="center" height="45" src="/public/icons8-walking.gif"> 
       </td>
     </tr>
   </thead>
@@ -225,10 +225,10 @@ Here’s an overview of every download option we have:
 The **preview** area displays how an icon will look in your project. You can switch between light and dark backgrounds by clicking the corresponding buttons in the top-right corner of the menu (Light/Dark).
 
 <p align="center">
-  <img width="900" src="/icons-docs/public/previewnew.png">
+  <img width="900" src="/public/previewnew.png">
 </p>
 
-If you want to edit an icon, choose either the  <img align="center" height="45" src="/icons-docs/public/editinlunacybutton2.png">  or  <img align="center" height="45" src="/icons-docs/public/editinmegacreatorbutton.png">  button. Mega Creator is good for combining an icon with other elements like text or graphics. Lunacy lets you edit vector icons and change them in any way you want. Note that these options are unavailable for _Animated icons_.
+If you want to edit an icon, choose either the  <img align="center" height="45" src="/public/editinlunacybutton2.png">  or  <img align="center" height="45" src="/public/editinmegacreatorbutton.png">  button. Mega Creator is good for combining an icon with other elements like text or graphics. Lunacy lets you edit vector icons and change them in any way you want. Note that these options are unavailable for _Animated icons_.
 
 * * *
 
@@ -237,15 +237,15 @@ If you want to edit an icon, choose either the  <img align="center" height="45
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk.
 
-You can find all your collections if you click the  <img align="center" height="45" src="/icons-docs/public/collectionsslash.png">  button in the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
+You can find all your collections if you click the  <img align="center" height="45" src="/public/collectionsslash.png">  button in the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
 <!-- TODO: find and attach correctly -->
 <!-- ![](attachments/65657/3571713.png?width=340) -->
-You can create a new collection by clicking on the  <img align="center" height="50" src="/icons-docs/public/newcollectioncreatebutton.png">
+You can create a new collection by clicking on the  <img align="center" height="50" src="/public/newcollectioncreatebutton.png">
 <!-- TODO: find and attach correctly -->
 <!-- ![](attachments/65657/2785283.png?width=442) -->
 
-To add an icon to a collection, hover a cursor over the icon and click  <img align="center" height="25" src="/icons-docs/public/addtocollectionnew.png"> . This sends the icon to an active collection. By default, the **Favorites** collection is active.
+To add an icon to a collection, hover a cursor over the icon and click  <img align="center" height="25" src="/public/addtocollectionnew.png"> . This sends the icon to an active collection. By default, the **Favorites** collection is active.
 
 You can also add icons simply by dragging it onto the particular collection.
 
@@ -255,12 +255,12 @@ You can also add icons simply by dragging it onto the particular collection.
 When you click on a particular collection and open it, you will see several options:
 
 <p align="center">
-  <img width="900" src="/icons-docs/public/newgeneralcollections.png">
+  <img width="900" src="/public/newgeneralcollections.png">
 </p>
 
-1.  <img align="center" height="90" src="/icons-docs/public/newaddicon.png">  button allows you to upload your own SVG files to be stored in the collection.
+1.  <img align="center" height="90" src="/public/newaddicon.png">  button allows you to upload your own SVG files to be stored in the collection.
     
-2.  <img align="center" height="50" src="/icons-docs/public/newcollectiondown.png"> option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
+2.  <img align="center" height="50" src="/public/newcollectiondown.png"> option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
     
     * **PNGs** of up to 1600x1600px.
         
@@ -270,11 +270,11 @@ When you click on a particular collection and open it, you will see several opti
         
     * **PDFs**
         
-3.  <img align="center" height="45" src="/icons-docs/public/colorcollectionbutton.png"> option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
+3.  <img align="center" height="45" src="/public/colorcollectionbutton.png"> option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
     
-4.  <img align="center" height="45" src="/icons-docs/public/copylinkbutton.png"> button generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
+4.  <img align="center" height="45" src="/public/copylinkbutton.png"> button generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
     
-5.  <img align="center" height="45" src="/icons-docs/public/collectionactionbutton.png"> button includes two options:<br>
+5.  <img align="center" height="45" src="/public/collectionactionbutton.png"> button includes two options:<br>
     * **Rename** lets you change the name of a collection to something more personal than Collection 6.<br>
     * **Delete**, well, deletes the active collection. This action is irreversible.<br>
     
@@ -290,7 +290,7 @@ Editor is a tool that lets you edit our icons without the use of any external so
     
 * **Overlay mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come in the same style as the selected icon, so you don’t have to worry about consistency. Overlays can be recolored the same way as icons and moved to a different part of a canvas.
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/icons-docs/public/overlaybg.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/overlaybg.mp4" type="video/mp4"></video>
 
  
 * **Text** tool is enough for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
@@ -324,7 +324,7 @@ Editor is a tool that lets you edit our icons without the use of any external so
 
 
 **Case #1. How do I download multiple icons at once?**  
-Hover over each icon and click  <img align="center" height="25" src="/icons-docs/public/addtocollectionnew.png"> . When you are ready to download them, open the [Collections](#collections) tab and press Download button on the right, then select the format, size and color. Done!
+Hover over each icon and click  <img align="center" height="25" src="/public/addtocollectionnew.png"> . When you are ready to download them, open the [Collections](#collections) tab and press Download button on the right, then select the format, size and color. Done!
 
 **Case #2. Can I recolor an icon?**  
 Yes, you can! Clicking on a particular icon will open the [Editor](#editor), where you can enable the recoloring mode. It works both for single-color icons and for fancy colored ones. You also can recolor icons in bulk within the Collections tab.
@@ -342,7 +342,7 @@ Yes, for minor adjustments like color, size, backgrounds and outlines you can us
 We have a special filter for that! Just search for an icon you need to get to the search results screen, then click on the _All styles_ button to choose a particular style.
 
 <p align="center">
-  <img width="800" src="/icons-docs/public/searchbystyles.png">
+  <img width="800" src="/public/searchbystyles.png">
 </p>
 
 **Case #6. I found an icon I need, but I don’t like the way it looks**
@@ -352,5 +352,5 @@ When you click on a particular icon, you will see a panel with 2 tabs below it.
 The first tab is what you’re looking for. Clicking on the arrow at the far-right side of the panel will let you see all styles this icon is available in.
 
 <p align="center">
-  <img width="800" src="/icons-docs/public/ducky3.png">
+  <img width="800" src="/public/ducky3.png">
 </p>
