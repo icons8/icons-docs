@@ -275,6 +275,10 @@ table {
 			background-color: $color-table-alternate-bg;
 		}
 	}
+
+	thead tr {
+		background-color: $color-table-alternate-bg;
+	}
 }
 
 .table-responsive {
