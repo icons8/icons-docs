@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Icons
-description: This page is dedicated to our icon library where you can find icons for your design projects. We hope to answer your questions about downloading, editing and inserting icons into your products. If you can’t find an answer, we recommend searching for it in [our FAQ](https://intercom.help/icons8-7fb7577e8170/en/collections/2838442-faq).
+description: This page is dedicated to our icon library where you can find icons for your design projects. We hope to answer your questions about downloading, editing and inserting icons into your products.
 icon: 'icons8'
 
 # Micro navigation
@@ -344,3 +344,7 @@ The first tab is what you’re looking for. Clicking on the arrow at the far-rig
 <p align="center">
   <img width="800" src="/public/ducky3.png">
 </p>
+
+**Case #7. I couldn't find an answer to my question.
+
+If you can’t find an answer, we recommend searching for it in [our FAQ](https://intercom.help/icons8-7fb7577e8170/en/collections/2838442-faq)
