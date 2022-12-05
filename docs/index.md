@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: About Icons8 web-app
-description: Everything you need to know about working with icons
+title:
+description:
 icon: 'icons8'
 
 # Micro navigation
