@@ -13,10 +13,10 @@ icon: 'icons8'
 micro_nav: false
 
 # Page navigation
-page_nav:
-    next:
-        content: Pichon
-        url: '/pichon-docs'
+# page_nav:
+#     next:
+#         content: Pichon
+#         url: '/pichon-docs'
 ---
 
 
