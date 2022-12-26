@@ -274,34 +274,28 @@ When you click on a particular collection and open it, you will see several opti
 ## Editor
 
 
-Editor is a tool that lets you edit our icons without the use of any external software. You can access the Editor by clicking on a particular icon, its options are located to the left of the icon.
+Editor is a tool that lets you edit our icons without the use of any external software. You can access the Editor by clicking on a particular icon, its options are located to the right of the icon. Editor options are divided into two categories: **Edit** and **Add**.
 
 * **Recoloring mode.** Lets you recolor any static icons present on our website, both single-color and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value.  
     
-* **Overlay mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come in the same style as the selected icon, so you don’t have to worry about consistency. Overlays can be recolored the same way as icons and moved to a different part of a canvas.
+* **Subicon mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come not only in the same style as the selected icon but in other styles as well, so you can keep it consistent or try experimenting. These overlays can be resized, recolored the same way as icons and moved to a different part of a canvas.
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/overlaybg.mp4" type="video/mp4"></video>
 
  
 * **Text** tool is enough for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
     
-* **Stroke** adds an outline to an icon and it’s overlay if the mode is enabled. You can also tweak thickness and color of the outline.
+* **Stroke** adds an outline to an icon and it’s subicon if enabled. You can also tweak thickness and color of the outline.
     
 * **Padding** lets you change the scale of an icon, making it smaller or bigger.
     
 * **Background** adds a flat color behind an icon which can be changed.
+         
+* **Square** adds a rectangular background. Has two modes:
     
-* **Circle** adds a circular background to an icon, this effect has two modes:
-    
-    * Filled. Creates a filled circle with adjustable color and size. Icon size can be adjusted as well.
+    * Filled adds a square with a solid color behind an icon, but with possibility to create rounded corners, turning it into a circle.
         
-    * Stroke. Adds circular outline. As with previous option, color, icon size and diameter can be changed, with the addition of outline thickness control.
-        
-* **Square** adds a rectangular background. Has the same two modes:
-    
-    * Filled. Everything is the same as with the circular background, but with possibility to create rounded corners.
-        
-    * Stroke. Has corner radius and outline thickness controls.
+    * Stroke adds a rectangular outline, has corner radius and outline thickness controls.
         
 
 <div class="callout callout--warning">
