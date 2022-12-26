@@ -280,9 +280,9 @@ Let's go over the first category.
 
 * **Color** lets you recolor any static icons present on our website, both monochrome and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value. Here you can also save colors to quickly apply them to other icons.
     
-* **Background color** adds a modifiable flat color behind an icon.
+* **Background color** adds a modifiable flat color behind the icon.
 
-* **Padding** lets you change the scale of an icon, making it smaller or bigger.
+* **Padding** lets you change the scale of the icon, making it smaller or bigger.
 
 * **Position** lets you move the icon on the canvas.
 
