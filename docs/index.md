@@ -276,32 +276,34 @@ When you click on a particular collection and open it, you will see several opti
 
 Editor is a tool that lets you edit our icons without the use of any external software. You can access the Editor by clicking on a particular icon, its options are located to the right of the icon. Editor options are divided into two categories: **Edit** and **Add**.
 
-* **Recoloring mode.** Lets you recolor any static icons present on our website, both single-color and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value.  
+Let's go over the first category.
+
+* **Color** lets you recolor any static icons present on our website, both monochrome and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value. Here you can also save colors to quickly apply them to other icons.
     
-* **Subicon mode.** A neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come not only in the same style as the selected icon but in other styles as well, so you can keep it consistent or try experimenting. These overlays can be resized, recolored the same way as icons and moved to a different part of a canvas.
+* **Background color** adds a modifiable flat color behind an icon.
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/overlaybg.mp4" type="video/mp4"></video>
+* **Padding** lets you change the scale of an icon, making it smaller or bigger.
 
+* **Position** lets you move the icon on the canvas.
+
+* **Rotation** rotates the icon.
+
+**Add** category includes the following options:
  
-* **Text** tool is enough for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
+* **Text** tool is for adding basic text to icons. Includes fonts of Roboto and PT families, toggles for bold and italics, weight slide and a recoloring option.
     
 * **Stroke** adds an outline to an icon and it’s subicon if enabled. You can also tweak thickness and color of the outline.
-    
-* **Padding** lets you change the scale of an icon, making it smaller or bigger.
-    
-* **Background** adds a flat color behind an icon which can be changed.
-         
+
+* **Subicon** is a neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come not only in the same style as the selected icon but in other styles as well, so you can keep it consistent or try experimenting. These overlays can be resized, recolored the same way as icons and moved to a different part of the canvas.
+
 * **Square** adds a rectangular background. Has two modes:
     
     * Filled adds a square with a solid color behind an icon, but with possibility to create rounded corners, turning it into a circle.
         
     * Stroke adds a rectangular outline, has corner radius and outline thickness controls.
+
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/overlaybg.mp4" type="video/mp4"></video>
         
-
-<div class="callout callout--warning">
-    <p><strong>Note:</strong> While modes can be paired with effects, only one effect can be active at a time.</p>
-</div>
-
 * * *
 
 ## Common questions
@@ -339,6 +341,6 @@ The first tab is what you’re looking for. Clicking on the arrow at the far-rig
   <img width="800" src="/public/ducky3.png">
 </p>
 
-**Case #7. I couldn't find an answer to my question.
+**Case #7. I couldn't find an answer to my question**
 
 If you can’t find an answer, we recommend searching for it in [our FAQ](https://intercom.help/icons8-7fb7577e8170/en/collections/2838442-faq)
