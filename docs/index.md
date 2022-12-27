@@ -274,19 +274,19 @@ When you click on a particular collection and open it, you will see several opti
 ## Editor
 
 
-Editor is a tool that lets you edit our icons without the use of any external software. You can access the Editor by clicking on a particular icon, its options are located to the right of the icon. Editor options are divided into two categories: **Edit** and **Add**.
+Editor is a tool that lets you edit our icons without the use of external software. You can access the Editor by clicking on a particular icon. Editor options are divided into two categories: **Edit** and **Add**.
 
 Let's go over the first category.
 
 * **Color** lets you recolor any static icons present on our website, both monochrome and colored ones. You can choose a color from the preset palette, select it via the color picker or input a HEX-code or RGB value. Here you can also save colors to quickly apply them to other icons.
     
-* **Background color** adds a modifiable flat color behind the icon.
+* **Background color** adds a modifiable flat color behind an icon.
 
-* **Padding** lets you change the scale of the icon, making it smaller or bigger.
+* **Padding** lets you change the scale of an icon, making it smaller or bigger.
 
-* **Position** lets you move the icon on the canvas.
+* **Position** lets you move an icon on the canvas.
 
-* **Rotation** rotates the icon.
+* **Rotation** rotates an icon.
 
 **Add** category includes the following options:
  
@@ -294,7 +294,7 @@ Let's go over the first category.
     
 * **Stroke** adds an outline to an icon and it’s subicon if enabled. You can also tweak thickness and color of the outline.
 
-* **Subicon** is a neat feature allowing you to add a smaller icon to the main one, creating a compound image. The best thing is that overlays always come not only in the same style as the selected icon but in other styles as well, so you can keep it consistent or try experimenting. These overlays can be resized, recolored the same way as icons and moved to a different part of the canvas.
+* **Subicon** is a neat feature allowing you to add a smaller icon to the main one, creating a compound image. Overlays come not only in the same style as the selected icon but in other styles as well, so you can keep it consistent or try experimenting. These overlays can be resized or recolored the same way as icons and moved to a different part of the canvas.
 
 * **Square** adds a rectangular background. Has two modes:
     
