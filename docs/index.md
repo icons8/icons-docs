@@ -302,7 +302,7 @@ Let's go over the first category.
         
     * Stroke adds a rectangular outline, has corner radius and outline thickness controls.
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/overlaybg.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/overlaybg3.mp4" type="video/mp4"></video>
         
 * * *
 
