@@ -178,7 +178,7 @@ Here’s an overview of every download option we have:
         <b>ANIMATED FORMATS</b>
       </td>
       <td style="text-align: center;" >
-        <img align="center" height="45" src="/public/walking2.gif"> 
+        <img align="center" height="45" src="/public/icons8-walking.gif"> 
       </td>
     </tr>
   </thead>
