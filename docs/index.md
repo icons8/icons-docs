@@ -60,7 +60,7 @@ If you want to make search results more precise, you can filter them by styles, 
 + **Designers.** Provides an option to choose between icons made by our in-house team or those created by independent authors.
     
 
-**Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has 5 basic colors for the sake of simplicity, but you can use the [Editor](#editor) for further customization.
+**Recolor option** allows you to quickly recolor the results and see if the icons will match your project. It has a basic pre-set palette for the sake of simplicity, but you can paste a HEX-code or use the [Editor](#editor) for further customization.
 
 
 <details>
