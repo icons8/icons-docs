@@ -231,7 +231,7 @@ You can find your collections in the  <img align="center" height="45" src="/pu
 
 <!-- TODO: find and attach correctly -->
 <!-- ![](attachments/65657/3571713.png?width=340) -->
-You can create a new collection by clicking on the  <img align="center" height="50" src="/public/newcollectioncreatebutton.png">
+You can create a new collection by clicking on <img align="center" height="50" src="/public/newcollectioncreatebutton.png">
 <!-- TODO: find and attach correctly -->
 <!-- ![](attachments/65657/2785283.png?width=442) -->
 
@@ -292,7 +292,7 @@ Let's go over the first category.
     
 * **Stroke** adds an outline to an icon and it’s subicon if enabled. You can also tweak thickness and color of the outline.
 
-* **Subicon** is a neat feature allowing you to add a smaller icon to the main one, creating a compound image. Overlays come not only in the same style as the selected icon but in other styles as well, so you can keep it consistent or try experimenting. These overlays can be resized or recolored the same way as icons and moved to a different part of the canvas.
+* **Subicon** is a neat feature allowing you to add a smaller icon to the main one, creating a compound image. Overlays come in the same style as the selected icon. They can be resized or recolored the same way as icons and moved to a different part of the canvas.
 
 * **Square** adds a rectangular background. Has two modes:
     
@@ -323,7 +323,7 @@ Yes, for minor adjustments like color, size, backgrounds and outlines you can us
 
 **Case #5. How do I find an icon in a particular style?**
 
-We have a special filter for that! Just search for an icon you need to get to the search results screen, then click on the _All styles_ button to choose a particular style.
+We have a special filter for that! Just search for an icon you need to get to the search results screen, then click on the *Styles* tab in the left-side panel.
 
 <p align="center">
   <img width="800" src="/public/searchbystyles.png">
