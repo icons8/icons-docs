@@ -36,7 +36,7 @@ Just type in a request into the search bar and press **Enter**, you will see the
 At the top of the results appear those icons that contain the search word in their name or synonymical words.
 
 <p align="center">
-  <img width="900" src="/public/timesearchnew.png">
+  <img width="900" src="/public/2024/wave.png">
 </p>
 
 <br>
@@ -44,7 +44,7 @@ If you want to make search results more precise, you can filter them by styles, 
 <br>
 <br>
 <p align="center">
-  <img width="900" src="/public/searchgeneralnew.png">
+  <img width="900" src="/public/2024/wavefilters.png">
 </p>
     
 + **Search by image** will help you find icons similar to the uploaded image. You can try other icons, illustrations and even photos.
@@ -76,7 +76,7 @@ If you want to make search results more precise, you can filter them by styles, 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Switching to a **Styles** menu will let you check how your search request or a category look in each style.
 
 <p align="center">
-  <img width="900" src="/public/categoriesoverhauled.png">
+  <img width="900" src="/public/2024/lpanel.png">
 </p>
 
   
