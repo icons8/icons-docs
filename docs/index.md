@@ -337,7 +337,7 @@ When you click on a particular icon, you will see a panel with 2 tabs below it.
 The first tab is what you’re looking for. Clicking on the arrow at the far-right side of the panel will let you see all styles this icon is available in.
 
 <p align="center">
-  <img width="800" src="/public/ducky3.png">
+  <img width="800" src="/public/2024/duckyn.png">
 </p>
 
 **Case #7. I couldn't find an answer to my question**
