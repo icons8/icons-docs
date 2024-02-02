@@ -309,7 +309,7 @@ Let's go over the first category.
 
 
 **Case #1. How do I download multiple icons at once?**  
-Hover over each icon and click  <img align="center" height="25" src="/public/addtocollectionnew.png"> . When you are ready to download them, open the [Collections](#collections) tab and press Download button on the right, then select the format, size and color. Done!
+First create a collection in the [Collections](#collections) tab. Bookmark the icons by dragging and dropping them onto the collection. When you are ready to download the icons, open the collection and press Download button at the top, then select the format, size and color. Done!
 
 **Case #2. Can I recolor an icon?**  
 Yes, you can! Clicking on a particular icon will open the [Editor](#editor), where you can enable the recoloring mode. It works both for single-color icons and for fancy colored ones. You also can recolor icons in bulk within the Collections tab.
