@@ -327,7 +327,7 @@ Yes, for minor adjustments like color, size, backgrounds and outlines you can us
 We have a special filter for that! Just search for an icon you need to get to the search results screen, then click on the *Styles* tab in the left-side panel.
 
 <p align="center">
-  <img width="800" src="/public/searchbystyles.png">
+  <img width="800" src="/public/2024/stylefilter.png">
 </p>
 
 **Case #6. I found an icon I need, but I don’t like the way it looks**
