@@ -227,7 +227,7 @@ If you want to edit an icon, choose either the  <img align="center" height="45
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk.
 
-You can find your collections in the  <img align="center" height="45" src="/public/2024/collectionsb.png">  tab of the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
+You can find your collections in the  <img align="center" height="65" src="/public/2024/collectionsb.png">  tab of the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
 <!-- TODO: find and attach correctly -->
 <!-- ![](attachments/65657/3571713.png?width=340) -->
