@@ -76,7 +76,7 @@ If you want to make search results more precise, you can filter them by styles, 
 You can also filter icons by topics. Use **Categories** menu located on the left and choose a topic you need. Switching to a **Styles** menu will let you check how your search request or a category look in each style.
 
 <p align="center">
-  <img width="900" src="/public/2024/lpanel.png">
+  <img width="900" src="/public/2024/lpanelr.png">
 </p>
 
   
