@@ -93,7 +93,7 @@ Take on board that there are three free icon categories: **Logos**, **Popular** 
 
 
   
-Click on the icon you like to open the expanded menu and press the green  <img align="center" height="55" src="/public/downloadbutton.png">  button.
+Click on the icon you like to open the expanded menu and press the green  <img align="center" height="55" src="/public/2024/downloadb.png">  button.
 
 You will see a new window where you can select the format and size, and also see the embedding options.
 
@@ -227,7 +227,7 @@ If you want to edit an icon, choose either the  <img align="center" height="45
 
 Collections let you organize your icons, sort them by projects, recolor and download them in bulk.
 
-You can find your collections in the  <img align="center" height="45" src="/public/collectionsslash.png">  tab of the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
+You can find your collections in the  <img align="center" height="45" src="/public/2024/collectionsb.png">  tab of the left-side panel when you search for and browse through our icons. Even if you haven’t created a collection yet, you will see the default **Favorites** and **Downloaded** collections in the panel.
 
 <!-- TODO: find and attach correctly -->
 <!-- ![](attachments/65657/3571713.png?width=340) -->
