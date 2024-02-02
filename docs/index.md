@@ -248,7 +248,7 @@ When you click on a particular collection and open it, you will see several opti
 
 1.  <img align="center" height="90" src="/public/newaddicon.png">  button allows you to upload your own SVG files to be stored in the collection.
     
-2.  <img align="center" height="50" src="/public/newcollectiondown.png"> option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
+2.  <img align="center" height="50" src="/public/2024/downloadcb.png"> option lets you export your collection in different formats, neatly packed in an archive file. You can choose from different formats:
     
     * **PNGs** of up to 1600x1600px.
         
@@ -258,12 +258,13 @@ When you click on a particular collection and open it, you will see several opti
         
     * **PDFs**
         
-3.  <img align="center" height="45" src="/public/colorcollectionbutton.png"> option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
+3.  <img align="center" height="45" src="/public/2024/recolorb.png"> option lets you apply a color to the whole collection. Either pick one from a preset palette or specify a HEX code or RGB value.
     
-4.  <img align="center" height="45" src="/public/copylinkbutton.png"> button generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
+4.  <img align="center" height="45" src="/public/2024/copyb.png"> button generates a link to the collection and copies it to your clipboard. When your friend or colleague opens the link, the collection will be automatically cloned to their collection library.
     
-5.  <img align="center" height="45" src="/public/collectionactionbutton.png"> button includes two options:<br>
+5.  <img align="center" height="45" src="/public/2024/editb2.png"> button includes three options:<br>
     * **Rename** lets you change the name of a collection to something more personal than Collection 6.<br>
+    * **Description** for adding an optional description.<br>
     * **Delete**, well, deletes the active collection. This action is irreversible.<br>
     
 
