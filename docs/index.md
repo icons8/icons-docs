@@ -243,7 +243,7 @@ To add an icon to a collection, drag and drop it into any collection you have.
 When you click on a particular collection and open it, you will see several options:
 
 <p align="center">
-  <img width="900" src="/public/newgeneralcollections.png">
+  <img width="900" src="/public/2024/collectionsw.png">
 </p>
 
 1.  <img align="center" height="90" src="/public/newaddicon.png">  button allows you to upload your own SVG files to be stored in the collection.
