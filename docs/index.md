@@ -342,4 +342,4 @@ The first tab is what you’re looking for. Clicking on the arrow at the far-rig
 
 **Case #7. I couldn't find an answer to my question**
 
-If you can’t find an answer, we recommend searching for it in [our FAQ](https://intercom.help/icons8-7fb7577e8170/en/collections/2838442-faq)
+If you can’t find an answer, we recommend searching for it in [our FAQ](https://intercom.help/icons8-7fb7577e8170/en/)
